@@ -8,3 +8,4 @@
 - VKWallImageMLAnalyzer -- модуль анализа изображений публикаций пользователя\группы с использованием средств машинного обучения
 - VKTextAnalysisModelBuilder -- утилита для обучения моделей анализа текста
 - VKImageAnalisysModelBuilder -- утилита для обучения моделей анализа изображений
+Испоьзует .NET Framework, Windows Forms, ML.NET, MS SQL Server.
